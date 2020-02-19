@@ -1,0 +1,17 @@
+{
+    "name": "nikp00/quibi-stock-sync",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "nikp00",
+            "email": "nik.princic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
