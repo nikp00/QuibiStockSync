@@ -6,7 +6,7 @@
  */
 /*
 Plugin Name: Quibi stock sync
-Plugin URI: https://github.com/
+Plugin URI: https://github.com/nikp00/QuibiStockSync
 Description: Stock sync from Quibi
 Version: 1.0.0
 Author: Nik Prinčič

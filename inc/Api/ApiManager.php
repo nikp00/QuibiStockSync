@@ -92,7 +92,7 @@ class ApiManager extends BaseController
         return json_decode(file_get_contents("$url$endpoint", false, stream_context_create($opts)), true);
     */
 
-        $url = "https://dev2.quibi.net";
+        $url = "https://si.quibi.net";
         $curl = curl_init();
         curl_setopt($curl, CURLOPT_URL, "$url$endpoint");
         curl_setopt($curl, CURLOPT_HTTPHEADER, array(
